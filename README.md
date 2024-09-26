@@ -1,1 +1,2 @@
 # my-first-repo
+Tyreese is a software engineering fellow at the marcy lab school. Originally from Guyana, he migrated to the United States for better opportunities. Tyreese is currently chasing that opportunity in hopes of pursuing a career in the tech field. 
